@@ -52,7 +52,7 @@
       <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/roofi-dev/roofi_portofolio">Roofi Portfolio</a></h3>
+      <h3><a href="https://roofi.dev">Roofi Portfolio</a></h3>
       <p>Portfolio personal untuk memperkenalkan karya, pengalaman, dan perjalanan development.</p>
       <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
     </td>
@@ -86,6 +86,7 @@
 ## 🤝 Let's Connect
 
 <div align="center">
+  <a href="https://roofi.dev"><img src="https://img.shields.io/badge/Portfolio-roofi.dev-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio roofi.dev" /></a>
   <a href="https://github.com/roofi-dev"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://github.com/roofi-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-2563eb?style=for-the-badge&logo=github" alt="My projects" /></a>
 </div>
