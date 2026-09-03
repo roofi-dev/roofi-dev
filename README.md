@@ -71,11 +71,17 @@
   </tr>
 </table>
 
-## 📈 Contribution Graph
+## 📈 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roofi-dev&bg_color=0f172a&color=e2e8f0&line=22d3ee&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution graph" />
+  <a href="https://github.com/roofi-dev?tab=overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roofi-dev&theme=github_dark" width="100%" alt="GitHub contribution overview" />
+  </a>
 </div>
+
+<p align="center">
+  <a href="https://github.com/roofi-dev?tab=overview">Lihat aktivitas kontribusi lengkap di GitHub →</a>
+</p>
 
 ## 🤝 Let's Connect
 
