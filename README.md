@@ -24,7 +24,7 @@
       </ul>
     </td>
     <td width="45%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=roofi-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f172a&title_color=38bdf8&icon_color=22d3ee&text_color=e2e8f0" width="100%" alt="GitHub statistics" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roofi-dev&theme=github_dark" width="100%" alt="GitHub statistics" />
     </td>
   </tr>
 </table>
@@ -32,13 +32,13 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Technology stack: HTML, CSS, JavaScript, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vue,nodejs,php,laravel,tailwind,mysql,git,github,docker,vscode&theme=dark" alt="Technology stack: HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Node.js, PHP, Laravel, Tailwind CSS, MySQL, Git, GitHub, Docker, VS Code" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roofi-dev&layout=compact&hide_border=true&langs_count=8&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" width="42%" alt="Most used programming languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roofi-dev&theme=github_dark" width="42%" alt="Programming languages by repository" />
   <img src="https://streak-stats.demolab.com?user=roofi-dev&theme=transparent&hide_border=true&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8" width="55%" alt="GitHub contribution streak" />
 </div>
 
