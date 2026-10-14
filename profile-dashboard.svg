@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2440" viewBox="0 0 1000 2440" role="img" aria-labelledby="title description">
+  <title id="title">Firdha Roofi Irawan — developer profile</title>
+  <desc id="description">A dark, blue-accented profile dashboard with an introduction, current interests, technology stack, featured projects, and contact links.</desc>
+  <defs>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b34" />
+      <stop offset="0.62" stop-color="#0b1323" />
+      <stop offset="1" stop-color="#082b3d" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb" />
+      <stop offset="1" stop-color="#22d3ee" />
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0.3" />
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="2440" fill="#070b12" />
+  <rect x="18" y="18" width="964" height="2404" rx="28" fill="#090f1a" stroke="#1c2b43" stroke-width="2" />
+  <circle cx="830" cy="195" r="210" fill="url(#glow)" />
+
+  <rect x="46" y="42" width="908" height="430" rx="24" fill="url(#hero)" stroke="#263957" stroke-width="2" />
+  <rect x="46" y="42" width="5" height="430" rx="2" fill="url(#accent)" />
+  <text x="82" y="91" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">ROOFI.DEV  /  PROFILE</text>
+  <rect x="82" y="119" width="238" height="34" rx="17" fill="#102638" stroke="#1b5269" />
+  <circle cx="101" cy="136" r="5" fill="#34d399" />
+  <text x="116" y="141" fill="#b6f3df" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1">OPEN TO COLLABORATION</text>
+  <text x="82" y="219" fill="#f8fafc" font-family="Arial, sans-serif" font-size="47" font-weight="700">Firdha Roofi Irawan</text>
+  <text x="84" y="260" fill="#a9c2e7" font-family="Arial, sans-serif" font-size="21">Developer  ·  Builder  ·  Lifelong Learner</text>
+  <text x="84" y="319" fill="#c7d2e2" font-family="Arial, sans-serif" font-size="17">I turn ideas into useful, simple digital products and tools.</text>
+  <text x="84" y="347" fill="#c7d2e2" font-family="Arial, sans-serif" font-size="17">Exploring web development, AI tools, and better ways to build software.</text>
+  <rect x="82" y="386" width="164" height="38" rx="19" fill="#111f35" stroke="#263957" />
+  <text x="164" y="410" text-anchor="middle" fill="#d9e8ff" font-family="Arial, sans-serif" font-size="13" font-weight="700">WEB DEVELOPMENT</text>
+  <rect x="258" y="386" width="120" height="38" rx="19" fill="#111f35" stroke="#263957" />
+  <text x="318" y="410" text-anchor="middle" fill="#d9e8ff" font-family="Arial, sans-serif" font-size="13" font-weight="700">AI TOOLS</text>
+  <rect x="390" y="386" width="152" height="38" rx="19" fill="#111f35" stroke="#263957" />
+  <text x="466" y="410" text-anchor="middle" fill="#d9e8ff" font-family="Arial, sans-serif" font-size="13" font-weight="700">DEVELOPER TOOLS</text>
+  <circle cx="804" cy="247" r="127" fill="#0b1424" stroke="#28466c" stroke-width="2" />
+  <circle cx="804" cy="247" r="98" fill="none" stroke="#1d3554" stroke-width="1" />
+  <circle cx="804" cy="247" r="68" fill="none" stroke="#1d3554" stroke-width="1" />
+  <circle cx="804" cy="247" r="38" fill="#102844" stroke="#38bdf8" stroke-width="2" />
+  <path d="M804 120V374M677 247H931M714 157L894 337M894 157L714 337" stroke="#234064" stroke-width="1" />
+  <circle cx="804" cy="120" r="5" fill="#22d3ee" />
+  <circle cx="894" cy="157" r="5" fill="#60a5fa" />
+  <circle cx="714" cy="337" r="5" fill="#60a5fa" />
+  <text x="804" y="256" text-anchor="middle" fill="#e0f2fe" font-family="Arial, sans-serif" font-size="22" font-weight="700">FR</text>
+  <text x="804" y="405" text-anchor="middle" fill="#8da8cb" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">IDEAS INTO SOFTWARE</text>
+
+  <text x="58" y="536" fill="#60a5fa" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">01  /  IDENTITY</text>
+  <text x="58" y="575" fill="#f1f5f9" font-family="Arial, sans-serif" font-size="29" font-weight="700">Identity with signal</text>
+  <rect x="46" y="601" width="442" height="242" rx="18" fill="#0d1523" stroke="#243247" />
+  <rect x="512" y="601" width="442" height="242" rx="18" fill="#0d1523" stroke="#243247" />
+  <text x="74" y="644" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">WHAT I CARE ABOUT</text>
+  <text x="74" y="691" fill="#edf4ff" font-family="Arial, sans-serif" font-size="21" font-weight="700">Useful, thoughtful software</text>
+  <text x="74" y="728" fill="#a9b8cc" font-family="Arial, sans-serif" font-size="16">Products that feel simple to use,</text>
+  <text x="74" y="753" fill="#a9b8cc" font-family="Arial, sans-serif" font-size="16">solve real needs, and make the</text>
+  <text x="74" y="778" fill="#a9b8cc" font-family="Arial, sans-serif" font-size="16">digital experience better.</text>
+  <path d="M74 808H458" stroke="#26364c" />
+  <text x="74" y="829" fill="#7f93ad" font-family="Arial, sans-serif" font-size="13">WEB  ·  PRODUCT  ·  SOFTWARE</text>
+  <text x="540" y="644" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">WHAT I'M EXPLORING</text>
+  <circle cx="548" cy="691" r="4" fill="#38bdf8" />
+  <text x="564" y="697" fill="#dce7f5" font-family="Arial, sans-serif" font-size="16">Web development</text>
+  <circle cx="548" cy="733" r="4" fill="#38bdf8" />
+  <text x="564" y="739" fill="#dce7f5" font-family="Arial, sans-serif" font-size="16">AI-enabled tools</text>
+  <circle cx="548" cy="775" r="4" fill="#38bdf8" />
+  <text x="564" y="781" fill="#dce7f5" font-family="Arial, sans-serif" font-size="16">Better software practices</text>
+  <path d="M540 808H924" stroke="#26364c" />
+  <text x="540" y="829" fill="#7f93ad" font-family="Arial, sans-serif" font-size="13">LEARNING BY BUILDING</text>
+
+  <text x="58" y="908" fill="#60a5fa" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">02  /  TOOLKIT</text>
+  <text x="58" y="947" fill="#f1f5f9" font-family="Arial, sans-serif" font-size="29" font-weight="700">The tools behind the signal</text>
+  <text x="58" y="978" fill="#91a2bb" font-family="Arial, sans-serif" font-size="15">A growing toolkit for building across the web stack.</text>
+  <rect x="46" y="1001" width="286" height="319" rx="18" fill="#0d1523" stroke="#243247" />
+  <rect x="357" y="1001" width="286" height="319" rx="18" fill="#0d1523" stroke="#243247" />
+  <rect x="668" y="1001" width="286" height="319" rx="18" fill="#0d1523" stroke="#243247" />
+  <text x="72" y="1045" fill="#e5f0ff" font-family="Arial, sans-serif" font-size="18" font-weight="700">Interface</text>
+  <text x="72" y="1072" fill="#8195b1" font-family="Arial, sans-serif" font-size="13">DESIGN &amp; FRONT END</text>
+  <rect x="72" y="1097" width="85" height="34" rx="9" fill="#13243a" /><text x="114" y="1119" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">HTML</text>
+  <rect x="166" y="1097" width="77" height="34" rx="9" fill="#13243a" /><text x="204" y="1119" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">CSS</text>
+  <rect x="72" y="1142" width="112" height="34" rx="9" fill="#13243a" /><text x="128" y="1164" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">JavaScript</text>
+  <rect x="193" y="1142" width="99" height="34" rx="9" fill="#13243a" /><text x="242" y="1164" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">TypeScript</text>
+  <rect x="72" y="1187" width="83" height="34" rx="9" fill="#13243a" /><text x="114" y="1209" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">React</text>
+  <rect x="164" y="1187" width="101" height="34" rx="9" fill="#13243a" /><text x="214" y="1209" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">Next.js</text>
+  <rect x="72" y="1232" width="83" height="34" rx="9" fill="#13243a" /><text x="114" y="1254" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">Vue</text>
+  <rect x="164" y="1232" width="129" height="34" rx="9" fill="#13243a" /><text x="228" y="1254" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">Tailwind CSS</text>
+  <text x="383" y="1045" fill="#e5f0ff" font-family="Arial, sans-serif" font-size="18" font-weight="700">Backend</text>
+  <text x="383" y="1072" fill="#8195b1" font-family="Arial, sans-serif" font-size="13">SERVICES &amp; DATA</text>
+  <rect x="383" y="1097" width="98" height="34" rx="9" fill="#13243a" /><text x="432" y="1119" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">Node.js</text>
+  <rect x="490" y="1097" width="75" height="34" rx="9" fill="#13243a" /><text x="527" y="1119" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">PHP</text>
+  <rect x="383" y="1142" width="96" height="34" rx="9" fill="#13243a" /><text x="431" y="1164" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">Laravel</text>
+  <rect x="488" y="1142" width="94" height="34" rx="9" fill="#13243a" /><text x="535" y="1164" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">MySQL</text>
+  <text x="694" y="1045" fill="#e5f0ff" font-family="Arial, sans-serif" font-size="18" font-weight="700">Workflow</text>
+  <text x="694" y="1072" fill="#8195b1" font-family="Arial, sans-serif" font-size="13">TOOLS &amp; COLLABORATION</text>
+  <rect x="694" y="1097" width="73" height="34" rx="9" fill="#13243a" /><text x="730" y="1119" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">Git</text>
+  <rect x="776" y="1097" width="83" height="34" rx="9" fill="#13243a" /><text x="817" y="1119" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">GitHub</text>
+  <rect x="694" y="1142" width="94" height="34" rx="9" fill="#13243a" /><text x="741" y="1164" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">Docker</text>
+  <rect x="797" y="1142" width="117" height="34" rx="9" fill="#13243a" /><text x="855" y="1164" text-anchor="middle" fill="#b9d9ff" font-family="Arial, sans-serif" font-size="13">VS Code</text>
+
+  <text x="58" y="1390" fill="#60a5fa" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">03  /  SELECTED WORK</text>
+  <text x="58" y="1429" fill="#f1f5f9" font-family="Arial, sans-serif" font-size="29" font-weight="700">Built, shipped, shared</text>
+  <text x="58" y="1460" fill="#91a2bb" font-family="Arial, sans-serif" font-size="15">A few projects from my GitHub.</text>
+  <rect x="46" y="1483" width="442" height="190" rx="18" fill="#0d1523" stroke="#243247" />
+  <rect x="512" y="1483" width="442" height="190" rx="18" fill="#0d1523" stroke="#243247" />
+  <rect x="46" y="1693" width="442" height="190" rx="18" fill="#0d1523" stroke="#243247" />
+  <rect x="512" y="1693" width="442" height="190" rx="18" fill="#0d1523" stroke="#243247" />
+  <rect x="74" y="1512" width="34" height="24" rx="7" fill="#13294a" /><text x="91" y="1529" text-anchor="middle" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="12" font-weight="700">01</text>
+  <text x="122" y="1532" fill="#e9f2ff" font-family="Arial, sans-serif" font-size="21" font-weight="700">9router</text>
+  <text x="74" y="1573" fill="#a9b8cc" font-family="Arial, sans-serif" font-size="15">AI coding assistant gateway with multiple</text>
+  <text x="74" y="1596" fill="#a9b8cc" font-family="Arial, sans-serif" font-size="15">providers and automatic fallback.</text>
+  <rect x="74" y="1620" width="94" height="27" rx="13" fill="#18253a" /><text x="121" y="1638" text-anchor="middle" fill="#f5d76e" font-family="Arial, sans-serif" font-size="12">JavaScript</text>
+  <rect x="540" y="1512" width="34" height="24" rx="7" fill="#13294a" /><text x="557" y="1529" text-anchor="middle" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="12" font-weight="700">02</text>
+  <text x="588" y="1532" fill="#e9f2ff" font-family="Arial, sans-serif" font-size="21" font-weight="700">Roofi Portfolio</text>
+  <text x="540" y="1573" fill="#a9b8cc" font-family="Arial, sans-serif" font-size="15">A personal portfolio for sharing work,</text>
+  <text x="540" y="1596" fill="#a9b8cc" font-family="Arial, sans-serif" font-size="15">experience, and the developer journey.</text>
+  <rect x="540" y="1620" width="68" height="27" rx="13" fill="#18253a" /><text x="574" y="1638" text-anchor="middle" fill="#ffb195" font-family="Arial, sans-serif" font-size="12">HTML</text>
+  <rect x="74" y="1722" width="34" height="24" rx="7" fill="#13294a" /><text x="91" y="1739" text-anchor="middle" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="12" font-weight="700">03</text>
+  <text x="122" y="1742" fill="#e9f2ff" font-family="Arial, sans-serif" font-size="21" font-weight="700">Form to Google Sheets</text>
+  <text x="74" y="1783" fill="#a9b8cc" font-family="Arial, sans-serif" font-size="15">A simple integration to save HTML form</text>
+  <text x="74" y="1806" fill="#a9b8cc" font-family="Arial, sans-serif" font-size="15">submissions to Google Sheets.</text>
+  <rect x="74" y="1830" width="94" height="27" rx="13" fill="#18253a" /><text x="121" y="1848" text-anchor="middle" fill="#f5d76e" font-family="Arial, sans-serif" font-size="12">JavaScript</text>
+  <rect x="540" y="1722" width="34" height="24" rx="7" fill="#13294a" /><text x="557" y="1739" text-anchor="middle" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="12" font-weight="700">04</text>
+  <text x="588" y="1742" fill="#e9f2ff" font-family="Arial, sans-serif" font-size="21" font-weight="700">Team B01</text>
+  <text x="540" y="1783" fill="#a9b8cc" font-family="Arial, sans-serif" font-size="15">A collaboration project to learn, explore,</text>
+  <text x="540" y="1806" fill="#a9b8cc" font-family="Arial, sans-serif" font-size="15">and build solutions together.</text>
+  <rect x="540" y="1830" width="68" height="27" rx="13" fill="#18253a" /><text x="574" y="1848" text-anchor="middle" fill="#ffb195" font-family="Arial, sans-serif" font-size="12">HTML</text>
+
+  <text x="58" y="1950" fill="#60a5fa" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">04  /  CURRENT CURIOSITY</text>
+  <text x="58" y="1989" fill="#f1f5f9" font-family="Arial, sans-serif" font-size="29" font-weight="700">Where I put my curiosity</text>
+  <rect x="46" y="2020" width="908" height="184" rx="18" fill="#0d1523" stroke="#243247" />
+  <path d="M325 2114H377M622 2114H674" stroke="#315278" stroke-width="2" />
+  <path d="M367 2108L377 2114L367 2120M664 2108L674 2114L664 2120" fill="none" stroke="#38bdf8" stroke-width="2" />
+  <circle cx="190" cy="2114" r="43" fill="#102642" stroke="#2c5b8b" stroke-width="2" />
+  <circle cx="500" cy="2114" r="43" fill="#102642" stroke="#2c5b8b" stroke-width="2" />
+  <circle cx="810" cy="2114" r="43" fill="#102642" stroke="#2c5b8b" stroke-width="2" />
+  <text x="190" y="2121" text-anchor="middle" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="18" font-weight="700">WEB</text>
+  <text x="500" y="2121" text-anchor="middle" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="18" font-weight="700">AI</text>
+  <text x="810" y="2121" text-anchor="middle" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="18" font-weight="700">TOOLS</text>
+  <text x="190" y="2180" text-anchor="middle" fill="#c3d2e5" font-family="Arial, sans-serif" font-size="14">Web development</text>
+  <text x="500" y="2180" text-anchor="middle" fill="#c3d2e5" font-family="Arial, sans-serif" font-size="14">AI-based tools</text>
+  <text x="810" y="2180" text-anchor="middle" fill="#c3d2e5" font-family="Arial, sans-serif" font-size="14">Developer tools</text>
+
+  <rect x="46" y="2240" width="908" height="142" rx="18" fill="url(#hero)" stroke="#263957" stroke-width="2" />
+  <text x="82" y="2290" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">HAVE AN IDEA TO BUILD?</text>
+  <text x="82" y="2332" fill="#f1f5f9" font-family="Arial, sans-serif" font-size="25" font-weight="700">Let's make something useful.</text>
+  <text x="82" y="2360" fill="#9eb2ce" font-family="Arial, sans-serif" font-size="15">Explore my projects or get in touch through the links below.</text>
+  <path d="M46 2400H954" stroke="url(#accent)" stroke-width="4" />
+</svg>
